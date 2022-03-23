@@ -4,12 +4,10 @@
 * fine-tuning에는 [KLUE-STS](https://klue-benchmark.com/tasks/67/overview/description) 의 train data를 사용하였습니다.
 
 ## Updates
----
 **March 23, 2022**
 * initial commit 
 
 ## How to run
----
 ```bash
 $ pip install -r requirements.txt
 $ python main.py
@@ -20,7 +18,6 @@ $ python main.py
 <img src="images/result_image.png">
 
 ## Directory structure
----
 ```bash
 ├── images
 ├── running_model
@@ -41,7 +38,6 @@ $ python main.py
 * data_preprocessing.py : 받은 두개의 문장에 대해 전처리를 진행하는 모듈입니다. 
 
 ## Requirements
----
 ```
 Flask==2.0.3
 huggingface-hub==0.4.0
@@ -51,8 +47,6 @@ transformers==4.17.0
 ```
 
 ## Our team
----
-
 | <img src="https://avatars.githubusercontent.com/u/85736494?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/86637320?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/78654687?v=4" width="150"> |
 |:--------:|:---------:|:---------:|
 | [류제성](https://github.com/crosstar1228) | [원재성](https://github.com/Woodywarhol9) | [장진희](https://github.com/zzhenxi) |
