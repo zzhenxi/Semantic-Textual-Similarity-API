@@ -1,1 +1,2 @@
 running_model/best_model/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
