@@ -37,6 +37,7 @@ $ python main.py
 * models.py : model함수로 모델을 실행하여 두개의 문장에 대해 유사도를 구합니다. 
 * data_preprocessing.py : 받은 두개의 문장에 대해 전처리를 진행하는 모듈입니다. 
 
+
 ## Requirements
 ```
 Flask==2.0.3
