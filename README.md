@@ -46,6 +46,9 @@ tokenizers==0.11.6
 torch==1.11.0
 transformers==4.17.0
 ```
+## Score (at [KLUE sts dev set](https://klue-benchmark.com/tasks/67/data/description))
+- Pearson's r (0~5 continuous similarity): 0.933
+- F1 Score(for binary classification): 0.867
 
 ## Our team
 | <img src="https://avatars.githubusercontent.com/u/85736494?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/86637320?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/78654687?v=4" width="150"> |
