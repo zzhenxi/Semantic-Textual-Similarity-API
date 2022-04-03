@@ -29,6 +29,7 @@ $ python main.py
 ├── templates
 │   ├── index.html
 │   └── result.html
+├── fine-tuning.ipynb
 ├── main.py
 ├── README.md
 └── requirements.txt
@@ -36,6 +37,7 @@ $ python main.py
 * running_model : fine-tuning된 best_model과 model을 실행하는데 필요한 모듈을 포함합니다. 
 * models.py : model함수로 모델을 실행하여 두개의 문장에 대해 유사도를 구합니다. 
 * data_preprocessing.py : 받은 두개의 문장에 대해 전처리를 진행하는 모듈입니다. 
+* fine-tuning.ipynb : KoELECTRA 모델을 불러와 fine-tuning 하는 과정을 담은 파일입니다.
 
 
 ## Requirements
