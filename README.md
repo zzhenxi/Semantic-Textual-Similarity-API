@@ -2,7 +2,7 @@
 * 본 API는 원티드 프리온보딩 코스의 기업과제 3번 수행을 위해 제작되었습니다.
 * model : [KoELECTRA](https://github.com/monologg/KoELECTRA)중 koelectra-base-v3-discriminator(pre-trained model)을 fine-tuning한 모델입니다. 
 * fine-tuning에는 [KLUE-STS](https://klue-benchmark.com/tasks/67/overview/description) 의 train data를 사용하였습니다.
-* fine-tuning 파트에 대한 설명은 fine-tuning.ipynb와 [노션 페이지](https://scandalous-ulna-3f2.notion.site/KLUE-STS-e83ecced1c1c441da352f2984680f951)를 참고해주세요!
+* 🌟**fine-tuning 파트에 대한 설명은 fine-tuning.ipynb와 [노션 페이지](https://scandalous-ulna-3f2.notion.site/KLUE-STS-e83ecced1c1c441da352f2984680f951)를 참고해주세요!**
 
 ## Updates
 **March 23, 2022**
